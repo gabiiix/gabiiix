@@ -9,7 +9,7 @@ I enjoy turning real-world problems into software solutions and continuously lea
 ## 💻 Technologies
 
 - **Languages:** Java, Python, C++, Dart, JavaScript
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, React
 - **Mobile:** Flutter / Dart
 - **Databases:** PostgreSQL, MySQL, SQL
 - **Tools:** Git, GitHub, VS Code, Postman
